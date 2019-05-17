@@ -6,3 +6,5 @@ The major work in the DATA2040 project focuses on:
 2. Modify the downloading data code for database storage and management to avoid possible warnings. The major modification happens in ` pgportfolio/marketdata/globaldatamatrix.py`. 
 3. Download the dataset and train the network from starch on the historical data of 8 coins from 2015/07/01 to 2017/07/01 using the `main.py` code. 
 4. Modify the configuration file `pgportfolio/net_config.json` to change the dataset and the model structures. Implement experiments accordingly. 
+
+The original `README.md` can be found at [here](https://github.com/EclecticQuants/Data2040_Final_Project/blob/master/PGPortfolio/README.md). 
