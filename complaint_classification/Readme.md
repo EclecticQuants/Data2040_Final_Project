@@ -1,0 +1,1 @@
+This folder contains the notebook to complaint classification from [Consumer Complaint Database](https://catalog.data.gov/dataset/consumer-complaint-database) and from [Kaggle Challenge for BBC Text Classification](https://www.kaggle.com/yufengdev/bbc-fulltext-and-category).
