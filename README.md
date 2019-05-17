@@ -1,7 +1,9 @@
 # Data2040_Final_Project
 
 Teammember: Sida Li, Yueyi Sun, Zejiang Shen, Tiantian Wu
+
 Blog: 
+
 Projects:
 - Complaint Classification bsed on RNN
   - This mini-porject explores using recurrent neural networks for complaint classification. Code is adapted from this [medium post](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17).
