@@ -2,10 +2,10 @@
 
 Teammember: Sida Li, Yueyi Sun, Zejiang Shen, Tiantian Wu
 
-Blog: 
+The [project website](https://eclecticquants2040.wixsite.com/blogs) contains the blogs for our mini-projects. [Blog1](https://eclecticquants2040.wixsite.com/blogs/multi-class-text-classification),[Blog2](https://eclecticquants2040.wixsite.com/blogs/neural-style-transfer), and [Blog3](https://eclecticquants2040.wixsite.com/blogs/rl-based-portfolio-management) are the blogs for RNN-based Complaint Classification, CNN-based Neural Style Transfer, and Reinforcement-Learning-based Portfolio Management, respectively.
 
 Projects:
-- Complaint Classification bsed on RNN
+- Complaint Classification based on RNN
   - This mini-porject explores using recurrent neural networks for complaint classification. Code is adapted from this [medium post](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17).
   
 - Neural Style Transfer based on CNN
